@@ -17,7 +17,15 @@ Greetings! I'm a Java enthusiast based in Sofia, Bulgaria, continually exploring
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=napetkov&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## <img src="certificates/certificate.png" alt="Education Icon" style="width: 25px; height: 25px;"> My education CERTIFICATES<br>
+## <img src="certificates/certificate.png" alt="Education Icon" style="width: 25px; height: 25px;"> My education Certeficates<br>
+[1. Soft-Uni: Programing Basic with Java](certificates/1.Programming_Basics-February2022-Certificate.pdf)<br>
+[2. Soft-Uni: Programing Fundamentals with Java](certificates/2.Programming_Fundamentals_with_Java-May2022-Certificate.pdf)<br>
+[3. Soft-Uni: Java Advanced](certificates/3.Java_Advanced-September2022-Certificate.pdf)<br>
+[4. Soft-Uni: Java OOP](certificates/4.JavaOOP-October2022-Certificate.pdf)<br>
+[5. Soft-Uni: HTML & CSS](certificates/5.HTML&CSS-January2023-Certificate.pdf)<br>
+[6. Soft-Uni: Java Script Front End](certificates/6.JS_Front-End-February2023-Certificate.pdf)<br>
+[7. Soft-Uni: MySQL](certificates/7.MySQL-May2023-Certificate.pdf)<br>
+[8. Soft-Uni: Spring Data](certificates/8.Spring_Data-June2023-Certificate.pdf)<br>
 
 
 
