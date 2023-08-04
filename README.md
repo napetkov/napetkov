@@ -14,9 +14,13 @@ Greetings! I'm a Java enthusiast based in Sofia, Bulgaria, continually exploring
 ![](https://github-readme-streak-stats.herokuapp.com/?user=napetkov&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=napetkov&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=napetkov&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+## <img src="certificates/certificate.png" alt="Education Icon" style="width: 25px; height: 25px;"> My education CERTIFICATES<br>
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
