@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 # 💫 About Me:
 Greetings! I'm a Java enthusiast based in Sofia, Bulgaria, continually exploring the fascinating world of programming. With ample experience in the management of restaurants, stores, warehouses, and logistics, I bring a diverse perspective to my tech journey. <br>Join me as I continue to learn, code, and grow on my GitHub profile.<br><br><br>Thank you for visiting, and I appreciate your support and collaboration on this coding adventure!
 
