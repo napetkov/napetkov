@@ -26,8 +26,8 @@ Greetings! I'm a Java enthusiast based in Sofia, Bulgaria, continually exploring
 [6. Soft-Uni: Java Script Front End](certificates/6.JS_Front-End-February2023-Certificate.pdf)<br>
 [7. Soft-Uni: MySQL](certificates/7.MySQL-May2023-Certificate.pdf)<br>
 [8. Soft-Uni: Spring Data](certificates/8.Spring_Data-June2023-Certificate.pdf)<br>
-[9. Soft-Uni: Spring Fundamentals](certificates/Spring Fundamentals - September 2023 - Certificate.pdf)<br>
-[10. Soft-Uni: Spring Advance](certificates/Spring Advanced - October 2023 - Certificate.pdf)<br>
+[9. Soft-Uni: Spring Fundamentals](certificates/9.Spring_Fundamentals-September2023-Certificate.pdf)<br>
+[10. Soft-Uni: Spring Advance](certificates/10.Spring_Advanced-October2023-Certificate.pdf)<br>
 
 
 
